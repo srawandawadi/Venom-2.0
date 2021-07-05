@@ -1,2 +1,2 @@
-# Venom-2.0
-venom.exe is a discord nuker program which allows you to nuke a discord server
+This program is not mine it is originaly uploaded to github by:
+https://github.com/eskids/venom-nuker
