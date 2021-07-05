@@ -1,0 +1,9 @@
+1. Open venom.exe
+
+2. Insert your discord token.
+
+3. Select what you want to do to the server.
+
+4. Insert all the given information.
+
+5. The discord server is now nuked.
